@@ -1,4 +1,4 @@
-# Fed feito com ReactJS e TypeScript <img width="20" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+# Feed feito com ReactJS e TypeScript <img width="20" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img src="https://i.imgur.com/zwP5DKN.png" align="center" />
 
 </br>
